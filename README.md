@@ -6,4 +6,4 @@ Focado em Python, HTML e CSS
 
 Preparando-se para o mercado de tecnologia
 
-Contato: luizeduardomoraisribeiro@gmail.com
+Contato: luizeduardomoraisribeiro@gmail.com 
